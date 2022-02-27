@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vanity of human respects. In a sermon. / By William Darel.</title>
+            <author>Darrell, William, 1651-1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81881</idno>
+            <idno type="STC">Wing D269B</idno>
+            <idno type="STC">ESTC R175904</idno>
+            <idno type="EEBO-CITATION">45578309</idno>
+            <idno type="OCLC">ocm 45578309</idno>
+            <idno type="VID">172244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172244)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2621:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vanity of human respects. In a sermon. / By William Darel.</title>
+                  <author>Darrell, William, 1651-1721.</author>
+               </titleStmt>
+               <extent>[2], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Tottenham, in London-House-Court in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published with allowance."</note>
+                  <note>"In a sermon on Luke II. vers. 49"--P. 1.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke II, 49 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172244:1" rendition="simple:additions"/>
+            <p>THE VANITY OF Human Reſpects. IN A SERMON.</p>
+            <p>By <hi>WILLIAM DAREL.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ISA. LI. Verſ. 7.</hi>
+               </bibl> Fear not the Reproach of Men, neither be afraid of their Revilings.</q>
+            <p>
+               <hi>Publiſhed with Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Tottenham,</hi> in <hi>London</hi>-Houſe-Court in St. <hi>Paul</hi>'s Church-Yard, 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:172244:2"/>
+            <pb facs="tcp:172244:2"/>
+            <head>THE VANITY OF <hi>Human Reſpects.</hi>
+            </head>
+            <head type="sub">IN A SERMON On</head>
+            <epigraph>
+               <bibl>LUKE II. Verſ. 49.</bibl>
+               <q>Did you not know, that I muſt be about my Father's Buſineſs?</q>
+            </epigraph>
+            <p>
+               <hi>GOD</hi> was not content to give us <hi>One Pledge</hi> of His <hi>Kindneſs,</hi> by aſſuming our <hi>Nature;</hi> but would add a <hi>Second,</hi> by eſpouſing our <hi>Miſeries<g ref="char:punc">▪</g>
+               </hi> Thoſe <hi>Showres of Tears,</hi> with which He firſt ſaluted the <hi>World</hi> at His <hi>Nativity,</hi> were ſcarce dried up, when He permitted the Lance to open a Way to <hi>Streams of Blood;</hi> that we might read His
+<pb n="2" facs="tcp:172244:3"/>
+               <hi>Kindneſs</hi> in as many <hi>Characters,</hi> as He poured out <hi>Drops;</hi> and that our <hi>Eyes</hi> might be Spectators, as well as our <hi>Ears</hi> Witneſſes, of His <hi>Affection.</hi> But, as our <hi>Sins</hi> cry'd out aloud for a <hi>Saviour;</hi> ſo did our <hi>Blindneſs</hi> plead as earneſtly for a <hi>Leader;</hi> A <hi>Re<g ref="char:EOLhyphen"/>deemer</hi>'s Death, indeed, could make us ceaſe to be <hi>Bad;</hi> His <hi>Life</hi> was requiſite, to point us out a Me<g ref="char:EOLhyphen"/>thod to be <hi>Good:</hi> And therefore, He was pleas'd to leave us His own <hi>Life<g ref="char:punc">▪</g>
+               </hi> as a Model to frame ours by; and to buy the <hi>Glory</hi> of His <hi>Body</hi> with the Price of thoſe <hi>Vertues,</hi> with which we muſt purchace the <hi>Happineſs</hi> of our <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uls.</hi> He taught us <hi>Poverty</hi> at his <hi>Nativity,</hi> bereaving Himſelf of all Things, though He created All: He preach'd us <hi>Obedience</hi> at his <hi>Cir<g ref="char:EOLhyphen"/>cumciſion;</hi> and <hi>Patience</hi> at his <hi>Death:</hi> But, in this <hi>Day's Goſpel,</hi> He gives us a <hi>Document</hi> as neceſſary to be learnt, as it is hard to be put in execution; viz. <hi>Ne<g ref="char:EOLhyphen"/>ſciebatis in his quae Patris mei ſunt oportet me eſſe?</hi> 
+               <q>Do you not know, that my <hi>Affection</hi> to you muſt give place to that <hi>Love</hi> I bear my <hi>Father?</hi> That all the Ties of <hi>Fleſh</hi> and <hi>Blood</hi> are too weak, to reſtrain me from my <hi>Duty?</hi>
+               </q> Dear <hi>Chriſtians!</hi> Hear this Great <hi>Preacher;</hi> and perſwade your ſelves, that it was not ſo much a Deſire of ſatisfying his <hi>Parents,</hi> which open'd his <hi>Sacred Mouth,</hi> as of inſtru<g ref="char:EOLhyphen"/>cting you in a <hi>Point,</hi> that perchance you all know,
+<pb n="3" facs="tcp:172244:3"/>though (I fear) ſew practiſe. Alas! we live in ſo <hi>Complementing</hi> an <hi>Age,</hi> that One falſe Step in regard of a <hi>Companion,</hi> carries us into greater <hi>Convulſions,</hi> than a Thouſand <hi>Treaſons</hi> againſt <hi>GOD.</hi> We lead <hi>Lives</hi> at Random, as if we could be Sav'd by <hi>Proxy;</hi> or, as if the Fear of offending a <hi>Debauch'd Friend,</hi> were a juſt Reaſon to offend <hi>GOD.</hi> Infine, Our Judg<g ref="char:EOLhyphen"/>ments are ſo deprav'd by <hi>Heatheniſh Principles,</hi> ena<g ref="char:EOLhyphen"/>cted by <hi>Chriſtians,</hi> that moſt Men (Alas!) chooſe rather to be really <hi>Bad,</hi> than to be thought <hi>Good:</hi> A ſtrange Frenzy (I confeſs,) and a moſt Couragi<g ref="char:EOLhyphen"/>ous Cowardize, to ſtand the Stroke of a <hi>Thunder-bolt,</hi> and to tremble at the Touch of a <hi>Tongue,</hi> which takes its Point from our own <hi>Imagaination!</hi> Give me Leave this Day to arraign <hi>human Reſpects</hi> from this <hi>Pul<g ref="char:EOLhyphen"/>pit,</hi> which <hi>Jeſus Chriſt</hi> condemn'd in the <hi>Temple:</hi> Be not angry, if, whil'ſt I accuſe this <hi>Vice,</hi> I fall not in It my ſelf, out of a Fear of diſpleaſing <hi>Thoſe</hi> whom I cannot <hi>pleaſe,</hi> without betraying my <hi>Character,</hi> and their <hi>Salvation.</hi>
+            </p>
+            <p>I will draw my <hi>Diſcourſe</hi> into <hi>Two Heads;</hi> viz<g ref="char:punc">▪</g> 
+               <hi>Firſt,</hi> I will diſcover the <hi>Intriegues</hi> of the <hi>Wicked,</hi> to with-draw their <hi>Fellow-Creatures</hi> from the very Root of <hi>Godlineſs,</hi> the <hi>True faith:</hi> And then I will arm Theſe with <hi>Weapons</hi> capable to over-come the
+<pb n="4" facs="tcp:172244:4"/>ſtrongeſt <hi>Human Reſpects;</hi> which have always been the moſt fatal <hi>Obſtacles</hi> the <hi>Devil</hi> can put in their way, who ſeek the <hi>Truth. Secondly,</hi> I will addreſs my <hi>Diſcourſe</hi> to <hi>Thoſe,</hi> who, in ſpight of all Op<g ref="char:EOLhyphen"/>poſition, have embrac'd the <hi>True faith of Chriſt;</hi> and will lay before them ſuch <hi>Motives,</hi> as ſhall be able to perſwade any Man of Reaſon, into a <hi>Reſolu<g ref="char:EOLhyphen"/>tion</hi> of bearing up cloſe to the <hi>Duties</hi> of his <hi>Religion;</hi> without which <hi>Compliance, <hi>Faith</hi>
+               </hi> is but a ſounding <hi>Cymbal,</hi> a ſpecious <hi>Name,</hi> and an inſignificant <hi>No<g ref="char:EOLhyphen"/>thing.</hi>
+            </p>
+            <p>'TIS a great Happineſs to <hi>Walk in the Way, which leads</hi> us <hi>to Eternal Felicity;</hi> and an Unhappi<g ref="char:EOLhyphen"/>neſs above Expreſſion, to run (in this World) towards a <hi>Miſery</hi> without Redreſs, becauſe Endleſs. <hi>Thoſe</hi> run the Fortune of the <hi>Firſt,</hi> who embrance a <hi>True Faith;</hi> and <hi>Thoſe</hi> the Misfortune of the <hi>Second,</hi> who hugg a <hi>Falſe One.</hi> So that we ought, in <hi>Prudence,</hi> to imploy all our Care to be in the <hi>Right:</hi> And yet, (O <hi>Heavens!</hi>) our Study is to be in the <hi>Wrong;</hi> notwithſtanding, as if our own <hi>Reaſon</hi> were too weak to work our <hi>Ruin,</hi> our <hi>Companions</hi> lend us an Hand; and We (poor <hi>Creatures!</hi>) lay hold of it, out of <hi>Ci<g ref="char:EOLhyphen"/>vility,</hi> though the <hi>Complement</hi> coſt us our own <hi>Sal<g ref="char:EOLhyphen"/>vation.</hi>
+               <pb n="5" facs="tcp:172244:4"/>'Tis a ſtupendious Thing, to ſee what <hi>Di<g ref="char:EOLhyphen"/>vines</hi> this <hi>Corrupted Age</hi> (and I may add too, this <hi>Cor<g ref="char:EOLhyphen"/>rupted City</hi>) hath brought forth, and nouriſhed; and alſo, how docile <hi>Scholars</hi> are, in learning thoſe <hi>Maxims</hi> they ſhould never hear of without Horror! Some teach raw <hi>Youth,</hi> That poor Men here below grope in the Dark; That Things beyond this <hi>World</hi> flote on <hi>
+                  <g ref="char:V">Ʋ</g>ncertainties:</hi> And therefore, That thoſe black <hi>Stories</hi> of <hi>Hell,</hi> thoſe diverting <hi>Fables</hi> of <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> are only fit to take place among the <hi>Romantick Tales</hi> of a <hi>Poetick Brain:</hi> That the moſt <hi>Sparky Wits</hi> of <hi>Antiquity,</hi> could never diſcover the leaſt Glimme<g ref="char:EOLhyphen"/>ring of any other <hi>Divinity,</hi> than <hi>Fortune:</hi> And, Why ſhould We (blind <hi>Batts</hi>) pretend to diſcern a <hi>Being,</hi> thoſe <hi>Eagles</hi> never eſpied? Theſe <hi>Blaſphemies</hi> (edg'd with <hi>Wit,</hi> and back'd with the <hi>Authority</hi> of Thoſe, whom <hi>Fools</hi> have plac'd in the <hi>Front</hi> of the <hi>Vir<g ref="char:EOLhyphen"/>tuoſi</hi>) are receiv'd by <hi>Youth,</hi> (which would fain find a <hi>Veil</hi> for the blackeſt <hi>Crimes</hi>) as <hi>Oracles</hi> dropt from <hi>Heaven.</hi>
+            </p>
+            <p>This <hi>Diſcourſe</hi> is follow'd by Peals of <hi>Applauſes;</hi> every one cries, <hi>The Gentleman hath Reaſon;</hi> though, in reality, he hath no more, than to deceive his <hi>Hea<g ref="char:EOLhyphen"/>rers;</hi> nor <hi>Thoſe,</hi> than to be deceiv'd. But, if ſome are not overcome by this <hi>canting</hi> and <hi>modiſh</hi> Piece of <hi>Sophiſtry,</hi>
+               <pb n="6" facs="tcp:172244:5"/>then <hi>He ſits down in the Chair of the Scorner,</hi> as the <hi>Pſalmiſt</hi> expreſſes it; and, for want of <hi>Reaſon,</hi> laughs his <hi>Auditory</hi> into his <hi>Atheiſtical Belief.</hi>
+            </p>
+            <p>I muſt confeſs, <hi>Railery</hi> hath more augmented-this <hi>Impious Doctrine,</hi> than any other Engin (either the <hi>Craft</hi> of <hi>Satan,</hi> or <hi>Malice</hi> of his <hi>Emiſſaries</hi>) ever ſet a running: For (though I can't tell how it comes to paſs, yet) certain it is, That whoſoever patiently bears a <hi>Railery,</hi> is judg'd defective in his <hi>Intellectuals:</hi> And ſuch is the preſent Perſwaſion of <hi>Mankind,</hi> that it is a leſſer Blemiſh to be eſteem'd voyd of <hi>Grace,</hi> than <hi>Wit.</hi> And then the Fear of loſing a Place in the <hi>Acade<g ref="char:EOLhyphen"/>my</hi> of <hi>Wit,</hi> or of being quite cut off from the <hi>Conver<g ref="char:EOLhyphen"/>ſation</hi> of <hi>Men</hi> of <hi>Parts,</hi> frights poor <hi>Creatures</hi> into a Reſolution of embracing a <hi>Religion,</hi> which hath no other <hi>Articles,</hi> than to deny <hi>All.</hi> But, becauſe no<g ref="char:EOLhyphen"/>thing but a Deſire to Die as <hi>Beaſts,</hi> can perſwade Men thus to Live like <hi>Them;</hi> and that <hi>Few</hi> are ſo indulg'd to <hi>Senſe,</hi> as quite to loſe it: Therefore <hi>Others,</hi> better acquainted with the <hi>Inclination</hi> of the <hi>Times,</hi> will grant, that there is a <hi>GOD.</hi> But then they turn <hi>Him</hi> into a <hi>Latitudinarian;</hi> as if Any <hi>Worſhip</hi> ſatisfy'd Him, as well as That which He pre<g ref="char:EOLhyphen"/>ſcrib'd Himſelf. <hi>GOD,</hi> ſay they, with the Old <hi>Pagan Maximus,</hi> is too vaſt to enter Whole into <hi>Man</hi>'s
+<pb n="7" facs="tcp:172244:5"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding;</hi> He muſt be taken in Pieces; and ſome muſt be contented to worſhip One <hi>Symbol,</hi> and ſome Another, as they judge convenient: He is not ſo nice, as <hi>Divines</hi> make Him; 'Tis <hi>Honour</hi> He re<g ref="char:EOLhyphen"/>quires, without quarrelling at the <hi>Manner:</hi> And therefore, all <hi>Religions</hi> are good, if ſupported by <hi>Mo<g ref="char:EOLhyphen"/>rality.</hi> Thus do theſe <hi>Men</hi> extol every <hi>Perſwaſion,</hi> and are of <hi>None</hi> themſelves. They erect a new <hi>Pan<g ref="char:EOLhyphen"/>theon;</hi> yet adore no other <hi>Divinity,</hi> but their own rambling <hi>Imagination.</hi>
+            </p>
+            <p>Now, that this fair <hi>Diſcourſe</hi> vents foul <hi>Falſities,</hi> 'tis evident to All, who are not reſolv'd to be deceiv'd: Whoſoever hath caſt but one Glance upon the <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> cannot but know, That as there is but One <hi>GOD,</hi> and One <hi>Baptiſm;</hi> ſo there is but One <hi>True Faith;</hi> and that he who will not acknowledge this <hi>Church</hi> to be his <hi>Mother,</hi> cannot have <hi>GOD</hi> for his <hi>Father.</hi>
+            </p>
+            <p>Yet after all, this <hi>Doctrine</hi> is ſo varniſht over with the ſpecious Colour of <hi>Reaſon,</hi> ſo ſweetned with the bewitching Allurements of <hi>Liberty,</hi> that Many admire it, Some embrace it, and Others have not Cou<g ref="char:EOLhyphen"/>rage enough to condemn it. They either imagine, that <hi>Silence</hi> ſpeaks loud enough their Diſlike of it, or it is
+<pb n="8" facs="tcp:172244:6"/>not their incumbent <hi>Duty</hi> to be ſo Zealous for <hi>GOD</hi>'s <hi>Honour,</hi> as to expoſe their Own to the <hi>Capricio</hi> of <hi>Men;</hi> from whom they cannot expect any <hi>Civility,</hi> ſeeing their <hi>Malice</hi> is not aw'd by the <hi>Majeſty</hi> of their <hi>Maker.</hi>
+            </p>
+            <p>But, for <hi>God</hi>'s ſake, <hi>D. C.</hi> (and your own) do not let any <hi>Human Reſpects</hi> tie your <hi>Tongues,</hi> when <hi>Zeal</hi> for your <hi>Maker</hi>'s Honour commands you to ſpeak. If <hi>Impiety</hi> dare appear bare-fac'd, give your <hi>Piety</hi> the ſame Freedom; and be not more fearful to defend your <hi>Maker,</hi> than his Enemies are to unthrone <hi>Him.</hi> Fly from them, as from Men ſtruck with the <hi>Plague;</hi> and do not ſcruple to ſeparate your ſelves from <hi>Thoſe,</hi> who have ſeparated themſelves from <hi>GOD.</hi> But, if it be your Misfortune once to fall in ſo deprav'd a <hi>Company,</hi> (and <hi>God</hi> knows, 'tis an Ac<g ref="char:EOLhyphen"/>cident may frequently happen in this Great <hi>City</hi>) run not into it a ſecond Time: They are ſick of a <hi>Mortal Diſeaſe;</hi> and nothing is more Natural, than to catch it. To hant a <hi>Sinner,</hi> is the next Degree to be like him. <hi>Cum perverſo pervertêris.</hi> Do not ſay, ſo monſtrous a <hi>Blaſphemy</hi> ſounds too gratingly in the Ears of a <hi>Chriſtian,</hi> ever to be heard without <hi>Indig<g ref="char:EOLhyphen"/>nation:</hi> Alas! Alas! <hi>Sins</hi> are but like Out-landiſh <hi>Monſters;</hi> which, at firſt, fright us; but, in Proceſs
+<pb n="9" facs="tcp:172244:6"/>of Time, delights us. Neither be inveigl'd by the ſpecious Name of a <hi>Friend;</hi> for, How can you in Prudence put one Grain of Truſt in a <hi>Man,</hi> who diſavows all Fidelity to <hi>GOD;</hi> from Whom he can both <hi>Hope</hi> and <hi>Fear</hi> more, than from any <hi>Creature</hi> breathing<g ref="char:punc">▪</g>
+            </p>
+            <p>But, I confeſs, few have ſo great a Reſpect for a <hi>Companion,</hi> as, for his ſake, to unmake their ve<g ref="char:EOLhyphen"/>ry <hi>Maker;</hi> that is, To deny His <hi>Being,</hi> to whom they owe their <hi>Own.</hi> This ſervile <hi>Deference</hi> is only incident to <hi>Thoſe,</hi> who have loſt all <hi>Conſcience</hi> by re<g ref="char:EOLhyphen"/>doubled <hi>Sins:</hi> And then, ſeeking a <hi>Remedy</hi> worſe than the very <hi>Evil,</hi> they perſwade themſelves, there is no <hi>Hell</hi> Below, to puniſh <hi>Crimes;</hi> no <hi>GOD</hi> A<g ref="char:EOLhyphen"/>bove, to recompenſe <hi>Vertues.</hi> Nor will they be per<g ref="char:EOLhyphen"/>ſwaded out of this <hi>Temerarious Tenet,</hi> till <hi>Experience</hi> forces them to feel their Miſtake.</p>
+            <p>
+               <hi>Human Reſpects</hi> take their Range more ordina<g ref="char:EOLhyphen"/>rily among <hi>Thoſe,</hi> who profeſs a <hi>Religion,</hi> but dare not embrace the <hi>True One,</hi> although they know it: The <hi>Devil</hi> raiſes a thouſand <hi>Black Imaginations</hi> in their Heads; and their own <hi>Cowardize</hi> as many more: And then theſe <hi>Aery Fancies</hi> (which take their Terror from <hi>Apprehenſions</hi> alone) quaſh all Re<g ref="char:EOLhyphen"/>ſolution,
+<pb n="10" facs="tcp:172244:7"/>but to Profeſs openly the <hi>Religion A-la-mode;</hi> and Interiourly <hi>That,</hi> which they are convinc'd to be the <hi>True One.</hi>
+            </p>
+            <p>But, let me tell You, <hi>D. A.</hi> This petty Piece of <hi>Policy</hi> will not do; This Jumbling and Blending of <hi>Religions</hi> together, makes but a <hi>Babel of Confuſion;</hi> which <hi>GOD</hi> deteſts. <hi>Jehu</hi> was convinc'd of the Truth of the <hi>Moſaick Religion;</hi> but, to ingratiate himſelf with his <hi>Ethnick Subjects,</hi> he plac'd the <hi>Calf</hi> on the <hi>Altar:</hi> However this monſtrous Mixture of <hi>Devo<g ref="char:EOLhyphen"/>tion,</hi> was no better than <hi>Impiety;</hi> and ſo the <hi>Holy Ghoſt</hi> hath publiſh'd to Poſterity, That <hi>He walked in the ſinful Path of his Predeceſſor,</hi> Jeroboam: Which is as harſh an <hi>Epitaph,</hi> as could be Ingraven on his <hi>Tomb.</hi>
+            </p>
+            <p>Do not then deceive your ſelves, (<hi>Dear Brethren!</hi>) by imagining you comply with your <hi>Obligation,</hi> when you Erect a <hi>Temple</hi> to the <hi>True Religion</hi> in your <hi>Heart,</hi> and an <hi>Altar</hi> to a <hi>Falſe One</hi> on your <hi>Tongue.</hi> St. <hi>Paul</hi> aſſures you, <hi>Confeſſio autem <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it ore ad Salutem;</hi> That a Publick Confeſſion of the <hi>Truth,</hi> is a neceſſary Re<g ref="char:EOLhyphen"/>quiſit to <hi>Salvation.</hi>
+            </p>
+            <p>But, Oh <hi>Sir!</hi> What will the World ſay, if I leave
+<pb n="11" facs="tcp:172244:7"/>
+               <hi>The Religion</hi> in which I was Born, to profeſs <hi>Ano<g ref="char:EOLhyphen"/>ther;</hi> which is the continual Subject of <hi>Pulpit-Exe<g ref="char:EOLhyphen"/>cration,</hi> the common Theam of <hi>Railery,</hi> and the ne<g ref="char:EOLhyphen"/>ver-failing Topick of all <hi>Invectives?</hi>—I muſt con<g ref="char:EOLhyphen"/>feſs, theſe <hi>Bugbears</hi> have frighted more than one <hi>Soul</hi> into <hi>Hell.</hi> But conſult your own <hi>Reaſon</hi> a little, I beſeech you; and then tell me, Whether ſuch weak <hi>Objections</hi> ought to overſway your <hi>Obligation,</hi> or ſuch childiſh <hi>Sophiſtry</hi> argue you into <hi>Damnation?</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> If it be your Misfortune to have been Born, and have ſpent the greateſt Part of your days in a <hi>Falſe <hi>Religion,</hi>
+               </hi> the greater is your <hi>Miſery;</hi> and therefore you cannot forſake that <hi>Error</hi> too ſoon, which hath deceiv'd you ſo long: Embrace rather a new-offer'd <hi>Light,</hi> and do not ſleep in an old <hi>Darkneſs.</hi> Be not cruel to your ſelves, ſeeing it hath pleas'd <hi>GOD</hi> to ſhew you <hi>Mercy.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> I grant, <hi>Our Religion</hi> hath not only been aſperſed by the open <hi>Profeſſors</hi> of <hi>Impiety,</hi> but even by <hi>Thoſe</hi> to whom a counterfeit <hi>Zeal</hi> gave a place among the <hi>Vertuous:</hi> But you muſt know, 'tis no Crime to be <hi>Condemn'd,</hi> but to be <hi>Guilty.</hi> Was our Bleſſed <hi>LORD</hi> a <hi>Drunkard,</hi> becauſe the maliti<g ref="char:EOLhyphen"/>ous <hi>Scribes</hi> and <hi>Phariſees</hi> term'd Him ſo? Was He
+<pb n="12" facs="tcp:172244:8"/>an <hi>Enemy</hi> to <hi>Caeſar,</hi> becauſe <hi>Gaeſar</hi>'s Enemies affirm'd it? Or, Did He lay an <hi>Horrid Plot</hi> to ſubvert the <hi>Government,</hi> becauſe the <hi>Jews</hi> laid this <hi>Treaſon</hi> at His Door? No, no; <hi>CHRIST</hi>'s Enemy's <hi>Crimes</hi> and <hi>Perjuries</hi> could not blaſt His <hi>Innocence;</hi> nor could (yet) His <hi>Church</hi>'s <hi>Foes</hi> ever black its <hi>Reputation,</hi> in the Opinion of Men, who are greater Friends to <hi>Truth</hi> than <hi>Malice;</hi> and who rather follow the <hi>Light</hi> of <hi>Reaſon,</hi> than the <hi>Torrent</hi> of <hi>Faction.</hi> Let Men call you then, <hi>Superſtitions, Cruel,</hi> and <hi>Idolatrous,</hi> if you joyn your ſelves to <hi>Our Church;</hi> the <hi>Sin</hi> is Theirs; the Vertue of <hi>Patience</hi> Yours, if you bear the <hi>Accuſation</hi> without any other Concern, than for your <hi>Perſecutor</hi>'s Sins. And I am ſure, ſo great a <hi>Bleſſing</hi> ought infinitely to out-vy the greateſt <hi>Male<g ref="char:EOLhyphen"/>diction,</hi> which can flow from the moſt inveterate <hi>Malice.</hi>
+            </p>
+            <p>This is true, <hi>Sir:</hi> But after all, the <hi>World</hi> will talk; nor will all the <hi>Sincerity</hi> of my <hi>Intentions,</hi> ever be able to perſwade Men to put a ſavourable Con<g ref="char:EOLhyphen"/>ſtruction on my <hi>Proceeding. Spleen</hi> will blaze it a<g ref="char:EOLhyphen"/>broad, that <hi>Intereſt</hi> was the ſole Motive of my <hi>Con<g ref="char:EOLhyphen"/>verſion,</hi> not <hi>Conſcience;</hi> and that a <hi>Criminal Com<g ref="char:EOLhyphen"/>pliance</hi> with the <hi>Times,</hi> rather turn'd my <hi>Will,</hi> than <hi>Reaſon</hi> convinc'd my <hi>Iudgment;</hi> and ſo
+<pb n="13" facs="tcp:172244:8"/>I ſhall loſe my <hi>Honour,</hi> and forfeit my <hi>Reputation,</hi> which is the greateſt <hi>Treaſure</hi> a Man of Quality can poſſeſs.</p>
+            <p>Pray, <hi>Dear Chriſtian,</hi> give me leave to ask you this Queſtion; <hi>Can another Mans Wickedneſs warrant yours? Can a Fear of being thought a Bad Man, juſti<g ref="char:EOLhyphen"/>fie your being ſo?</hi> The World will ſay, That <hi>Intereſt</hi> is your <hi>Motive;</hi> if it be, <hi>Religion</hi> is but a Cloak to cover your <hi>Vice;</hi> and you deſerve more <hi>Execrations,</hi> than the <hi>Tongues</hi> of <hi>Men</hi> are able to fling on you: But if <hi>Conſcience</hi> be the ſole Ground of your <hi>Con<g ref="char:EOLhyphen"/>verſion,</hi> Will you be ſo unnatural as to pawn <hi>This</hi> on <hi>Wicked Mens</hi> Account? Will you be really a <hi>Sin<g ref="char:EOLhyphen"/>ner,</hi> our of a Fear of being eſteem'd <hi>One?</hi> This is a <hi>Folly</hi> above Expreſſion, and a Deference to an <hi>Ene<g ref="char:EOLhyphen"/>my,</hi> which ſhould never be granted the deareſt <hi>Friend.</hi>
+            </p>
+            <p>But you will hazard your <hi>Honour:</hi> What than? Good <hi>GOD!</hi> Shall I rather put to a venture the <hi>Sal<g ref="char:EOLhyphen"/>vation</hi> of my <hi>Soul,</hi> than my <hi>Reputation?</hi> Shall I be ſo inchanted with the vain <hi>Applauſe</hi> of <hi>Men,</hi> who can<g ref="char:EOLhyphen"/>not be ſufficiently blam'd, as rather to fling up my Right to <hi>Heaven,</hi> than to forfeit a Place in their <hi>Pa<g ref="char:EOLhyphen"/>negyricks?</hi> O in what deceitful <hi>Balances</hi> do the un<g ref="char:EOLhyphen"/>fortunate <hi>Children</hi> of <hi>Adam</hi> weigh Things! How fool<g ref="char:EOLhyphen"/>iſh
+<pb n="14" facs="tcp:172244:9"/>is their <hi>Conduct,</hi> whoſe only <hi>Ambition</hi> is to be thought Wiſe!</p>
+            <p>Believe me, <hi>Honour</hi> will never ſave your <hi>Souls,</hi> (<hi>Dear Chriſtians!</hi>) nor falſe <hi>Aſperſions</hi> damn them: So that, in Prudence, you ought not to ſtartle at <hi>Theſe;</hi> nor to be ſo much enamour'd with <hi>That,</hi> as to give it a greater Place in your <hi>Affections,</hi> than your <hi>Duty.</hi> But, if you will be Slaves to <hi>Honour,</hi> let it be to <hi>That,</hi> which ennobles you, not to <hi>That,</hi> which diſgraces you: Be <hi>Great</hi> in the Sight of <hi>GOD,</hi> not in the Opinion of <hi>Men;</hi> who are ſure to eſteem <hi>That</hi> moſt, which is of the leaſt Value. The <hi>Holy Fathers</hi> tell us, <hi>'Tis an Honour to <hi>Be</hi> a Chriſtian;</hi> and, I am ſure, 'tis a greater to be a <hi>True Oue;</hi> that is, not only to Profeſs <hi>CHRIST,</hi> but a <hi>Religion</hi> which hath its <hi>Being</hi> from his <hi>Eternal Wiſdom,</hi> not from the <hi>Aery Fancies</hi> of <hi>Men.</hi>
+            </p>
+            <p>Well, <hi>Sir,</hi> I am convinc'd, 'tis a Madneſs to be byaſs'd by any of theſe weak <hi>Arguments:</hi> But, <hi>Times may Change;</hi> and the <hi>Religion</hi> which is now Pro<g ref="char:EOLhyphen"/>tected, may be Perſecuted by an <hi>Equal Authority. Times may Change,</hi> 'tis true: But, let me tell you, Perchance, many here preſent, may be in their <hi>Graves</hi> before <hi>Thoſe Times</hi> come. Shall I then aſſure my
+<pb n="15" facs="tcp:172244:9"/>
+               <hi>Damnation,</hi> out of the Apprehenſion of a <hi>Danger,</hi> that perhaps will never come near me? No, no: Seeing all my <hi>Care</hi> and <hi>Induſtry</hi> can never put my <hi>Soul</hi> in a perfect <hi>Security,</hi> whil'ſt it moves in this <hi>Region</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>ncertainties,</hi> I will place it as near <hi>Heaven</hi> as I am able; and never be frighted from ſo prudent a <hi>Care,</hi> by any future <hi>Contingencies.</hi>
+            </p>
+            <p>But, ſuppoſe thoſe <hi>Times</hi> were not only to <hi>Come,</hi> but <hi>Preſent;</hi> Can the <hi>Sword</hi> of <hi>Perſecution,</hi> the <hi>Ri<g ref="char:EOLhyphen"/>gor</hi> of <hi>Laws,</hi> warrant any Man's <hi>Diſſimulation?</hi> Does <hi>GOD</hi> adapt his <hi>Church</hi> to the <hi>Times?</hi> Hath He Inſtituted One for a <hi>Calm,</hi> Another for a <hi>Storm?</hi> I confeſs ingenuouſly, I never ſaw, in all the <hi>Monuments</hi> of <hi>Antiquity,</hi> any Foot-ſteps of ſuch an <hi>Indulgence.</hi> As <hi>GOD</hi> is without Change, ſo is his <hi>Religion;</hi> and we are oblig'd, under pain of <hi>Damnation,</hi> to em<g ref="char:EOLhyphen"/>brace it, tho' it coſt us the <hi>Sweat</hi> of our <hi>Brows,</hi> nay, and every Drop of <hi>Blood</hi> in our <hi>Veins.</hi>
+            </p>
+            <p>This is <hi>CHRIST</hi>'s <hi>Doctrine,</hi> without any <hi>Hy<g ref="char:EOLhyphen"/>perbole; If any Man come to Me, and hate not his Fa<g ref="char:EOLhyphen"/>ther, and Mother, and Wife, and Children, and Bre<g ref="char:EOLhyphen"/>thren, and Siſters, yea, and his own Life alſo, he can<g ref="char:EOLhyphen"/>not he My Diſciple,</hi> Luke 14.26. By which Words He declares, in the moſt poſitive Terms imaginable,
+<pb n="16" facs="tcp:172244:10"/>That neither the Reſpect due to our <hi>Parents,</hi> nei<g ref="char:EOLhyphen"/>ther the Love of <hi>Wife</hi> and <hi>Children;</hi> in fine, neither the natural and in-bred <hi>Inclination</hi> all Men feel to conſerve their <hi>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es,</hi> can warrant the Tranſgreſſion of <hi>GOD</hi>'s <hi>Com<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ds:</hi> We muſt rather quit All we can hope for in this <hi>World,</hi> and exſpoſe us to All we can fear, than <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll one Inch ſhort of our <hi>Duty.</hi> And becauſe it is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Command</hi> (I am ſure) to Embrace t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t <hi>Faith,</hi> which <hi>CHRIST</hi> hath Planted with His <hi>Sweat,</hi> and W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tred with His moſt precious <hi>Blood,</hi> any Man's not Pr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſing <hi>It</hi> will be puniſhed with <hi>Eternal Death. He that Believeth not, ſhall be Damned,</hi> Mark 18.16. The <hi>Primitive Chri<g ref="char:EOLhyphen"/>ſtians</hi> were convinc'd of this <hi>Truth;</hi> and therefore no <hi>Human Motive</hi> was capable to with-draw them from <hi>CHRIST:</hi> Theſe Invincible <hi>Hero's</hi> ſaw <hi>Chri<g ref="char:EOLhyphen"/>ſtianity</hi> condemn'd by unjuſt Decrees of the <hi>Roman Senate;</hi> and more <hi>Cruelties</hi> put in Execution, than were Enacted: They beheld the <hi>Reeking Gore</hi> of their <hi>Maſſacred Brethren;</hi> were Spectators of their <hi>Man<g ref="char:EOLhyphen"/>gled Bodies,</hi> which were either caſt as a Prey to the <hi>Beaſts</hi> of the <hi>Field,</hi> or <hi>Birds</hi> of the <hi>Air.</hi> As their <hi>Divine Conſtancy</hi> rais'd their <hi>Souls</hi> above the <hi>World,</hi> ſo the <hi>Cruelty</hi> of their <hi>Perſecutors</hi> caſt them lower than <hi>Beaſts:</hi> The <hi>Wounds</hi> they receiv'd, the <hi>Torments</hi> they endur'd, ſo chang'd their <hi>Features,</hi> that nothing
+<pb n="17" facs="tcp:172244:10"/>was more unlike <hi>Men,</hi> but the <hi>Tormentors,</hi> whoſe <hi>Barbarity</hi> plung'd them into ſo deplorable a Condi<g ref="char:EOLhyphen"/>tion. Yet <hi>Death,</hi> in all theſe ghaſtly Diſguiſes, was not able to fright Young <hi>Lords,</hi> and Tender <hi>Ladies</hi> from the <hi>Goſpel:</hi> They read <hi>GOD</hi>'s <hi>Commands,</hi> and were reſolv'd to comply with <hi>Them.</hi> They knew their <hi>Souls</hi> were at ſtake; and therefore, to ſecure Theſe, they thought it no ſmall Piece of <hi>Wiſdom,</hi> to expoſe their <hi>Bodies,</hi> which once would fall a <hi>Sacri<g ref="char:EOLhyphen"/>fice</hi> to <hi>Death,</hi> in ſpight of <hi>Care</hi> and <hi>Artifice:</hi> That the <hi>Tyrant</hi>'s <hi>Rage,</hi> if vehement, would ſoon diſpatch them; that, if remiſs, it might be borne. So that what they could loſe, was only what <hi>Nature</hi> once would ſteal.</p>
+            <p>But <hi>Infidelity</hi> open'd a far different <hi>Scene:</hi> It repreſented <hi>Heaven</hi> loſt, <hi>Hell</hi> found, and Both for an <hi>Eternity.</hi> Theſe <hi>Motives</hi> ſo ſoftned all the diſ<g ref="char:EOLhyphen"/>mal <hi>Sequels</hi> of a <hi>Converſion</hi> to <hi>Chriſtianity,</hi> that they embrac'd it with <hi>Joy.</hi>
+            </p>
+            <p>And therefore I do not ſee, why <hi>We,</hi> who expect from our <hi>Obedience</hi> to <hi>CHRIST</hi>'s <hi>Religion,</hi> as great <hi>Recompences</hi> as <hi>They,</hi> and ought to fear as great <hi>Pu<g ref="char:EOLhyphen"/>niſhments</hi> from our <hi>Infidelity,</hi> ſhould wander in a <hi>La<g ref="char:EOLhyphen"/>byrinth</hi> of <hi>Irreſolations;</hi> or rather ſhould reſolve to
+<pb n="18" facs="tcp:172244:11"/>be argu'd out of the <hi>True Faith,</hi> by ſuch <hi>Arguments</hi> as weak <hi>Children,</hi> and ſeeble <hi>Old Men</hi> have ſolv'd by the Effuſion of their <hi>Blood.</hi>
+            </p>
+            <p>O <hi>GOD!</hi> Seeing therefore this is thy <hi>Command,</hi> I will ſeek the <hi>Truth,</hi> not as if I fear'd to find it; but like One, who knows he may be eternally Hap<g ref="char:EOLhyphen"/>py with it, and muſt be perpetually Miſerable with<g ref="char:EOLhyphen"/>out it. I will lay down <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ejudice,</hi> which is the worſt of <hi>Counſellors,</hi> and only take <hi>Sincerity</hi> with me in the Purſuit: And, when once I am ſo fortu<g ref="char:EOLhyphen"/>nate as to find this <hi>Treaſure,</hi> nothing but <hi>Death</hi> ſhall take it from me. I will not value the Reproaches of <hi>Enemies,</hi> nor the fawning Diſſwaſions of <hi>Friends:</hi> I will ſacrifice my <hi>Honour</hi> to my <hi>Duty;</hi> the <hi>Portion</hi> I poſſeſs in this <hi>World,</hi> (if need be) to that I pretend to in <hi>Heaven;</hi> and the Safety of my <hi>Body,</hi> to the Salvation of my <hi>Soul:</hi> Becauſe, I am ſure, if once I loſe <hi>This,</hi> I ſhall never find <hi>It;</hi> but ever to deplore my Cruelty towards my <hi>Self,</hi> and my Ingratitude towards my <hi>Maker.</hi>
+            </p>
+            <div type="part">
+               <pb n="19" facs="tcp:172244:11"/>
+               <head>[I come now to my <hi>Second Point.</hi>]</head>
+               <p>ONE would wonder, how <hi>Men,</hi> who have <hi>Cou<g ref="char:EOLhyphen"/>rage</hi> (in ſpight of <hi>Railery</hi> and <hi>Shame</hi>) to Em<g ref="char:EOLhyphen"/>brace the <hi>True Religion,</hi> ſhould be ſo <hi>Cowardly,</hi> as to fear to ſquare their <hi>Lives</hi> according to its <hi>Te<g ref="char:EOLhyphen"/>nets!</hi> Or, (what is yet more ſtrange) how <hi>Men,</hi> who glory in the Name of a <hi>Catholick,</hi> ſhould bluſh to be eſteem'd a <hi>Good One!</hi> This is a <hi>Conduct</hi> no leſs prepoſterous, than for a Man to dare a <hi>Gyant,</hi> and to run from the Face of a <hi>Pigmy!</hi> Yet, is it not true in Practice? I wiſh it were not. But our <hi>Eyes</hi> muſt convince our <hi>Judgments,</hi> that too many <hi>Tracts</hi> of theſe unreaſonable Proceedings are viſible in the <hi>World.</hi> How many are there, perchance, in this ve<g ref="char:EOLhyphen"/>ry Place, who have committed more <hi>Sins</hi> to pleaſe a <hi>Debauch'd Companion,</hi> than to pleaſe <hi>Them<g ref="char:EOLhyphen"/>ſelves?</hi> Who have more dreaded the Frown of a <hi>Friend,</hi> than the terrible Menaces of an angry <hi>GOD?</hi> You are Invited to a <hi>Tavern;</hi> You know the End of theſe <hi>Invitations</hi> are not to entertain <hi>Friendſhip,</hi> but to heighten <hi>Intemperance;</hi> not to divert <hi>Nature,</hi> but to drown both <hi>Reaſon</hi> and <hi>Grace</hi> in <hi>Wine.</hi> Your <hi>Conſcience</hi> bids you ſtay: You hear its <hi>Voice;</hi> you feel its <hi>Sting;</hi> you reſolve to <hi>Obey:</hi> But then <hi>C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lity</hi>
+                  <pb n="20" facs="tcp:172244:12"/>changes your <hi>Reſolution;</hi> You fear to be point<g ref="char:EOLhyphen"/>ed at for a <hi>Clown,</hi> in caſe of a <hi>Refuſal:</hi> And ſo, in fine, you Compliment your ſelf out of <hi>GOD</hi>'s Holy <hi>Grace,</hi> and accompany your <hi>Friend</hi> to <hi>Hell.</hi> You are ap<g ref="char:EOLhyphen"/>pointed to meet a <hi>Club</hi> of <hi>Deſperado's</hi> in ſuch Places, as <hi>Honeſty,</hi> nay, and common <hi>Humanity,</hi> ſcarce dares name: If a frequent Repetition of <hi>Sins</hi> have not quite lull'd your <hi>Conſcience</hi> aſleep, it cannot but ſtartle at the bare making of ſo unchriſtian a <hi>Propoſal.</hi> In the mean time, <hi>Grace</hi> and <hi>Nature</hi> wage a <hi>War</hi> with<g ref="char:EOLhyphen"/>in your <hi>Breaſt;</hi> you fear to <hi>Go,</hi> and are aſham'd to <hi>Stay;</hi> you <hi>Tremble</hi> at an <hi>Acceptation</hi> of the <hi>Challenge,</hi> and <hi>Shiver</hi> as much at the very Thought of a <hi>Refu<g ref="char:EOLhyphen"/>ſal.</hi> You ſee <hi>GOD</hi> threatning Above, <hi>Hell</hi> mena<g ref="char:EOLhyphen"/>cing Below; and you feel the <hi>Pangs</hi> and <hi>Throws</hi> of a <hi>Conſcience,</hi> knawing within: But then a <hi>Quid di<g ref="char:EOLhyphen"/>cent homines?</hi> (What will my <hi>Companions</hi> ſay?) drives away theſe wholeſom <hi>Admonitions,</hi> to give place to the <hi>Helliſh Executioners</hi> of <hi>Sin.</hi>
+               </p>
+               <p>Your <hi>Conſcience</hi> puts before your <hi>Eyes</hi> the diſmal Scene of your <hi>Crimes;</hi> it echoes forth aloud, <hi>Niſi Poenitentiam egeritis ſimul omnes peribitis;</hi> Either <hi>Pe<g ref="char:EOLhyphen"/>nance,</hi> or <hi>Damnation:</hi> There is no <hi>Medium</hi> between theſe Extreams; no Place for <hi>Neutrality.</hi>
+               </p>
+               <pb n="21" facs="tcp:172244:12"/>
+               <p>Conſult then your own <hi>Memory,</hi> examine your <hi>Duty,</hi> and deplore firſt the Neglect of it; and then, <hi>Vade &amp; oſtende te Sacerdoti,</hi> Caſt your ſelf at a <hi>Prieſt</hi>'s Feet, and lay There thoſe <hi>Monſters</hi> of <hi>Iniquity,</hi> which otherwiſe will live Eternally to <hi>Torment</hi> you. A <hi>Tran<g ref="char:EOLhyphen"/>ſcient Shame</hi> is far more eaſie to be borne, than a <hi>Per<g ref="char:EOLhyphen"/>petual Puniſhment;</hi> and a <hi>Grief</hi> with <hi>Pardon,</hi> is bet<g ref="char:EOLhyphen"/>ter than <hi>Sorrow</hi> with <hi>Deſpair.</hi>
+               </p>
+               <p>Theſe <hi>Admonitions</hi> ſoften our <hi>Hearts;</hi> we embrace the <hi>Counſel,</hi> and reſolve to put it in Execution: But, in the mean time, an <hi>Invitation</hi> comes from a <hi>Friend,</hi> to ſome <hi>Vain,</hi> or perhaps <hi>Criminal Divertiſement:</hi> Our <hi>Pious Reſolution</hi> muſt give place to a <hi>Ceremoni<g ref="char:EOLhyphen"/>ous Condeſcenſion,</hi> leſt we commit a <hi>Soeliciſm</hi> againſt <hi>Good Manners,</hi> or diſappoint a <hi>Friend.</hi> We run into <hi>Treaſons</hi> againſt our <hi>Souls,</hi> we diſappoint <hi>GOD</hi>'s Fatherly <hi>Deſigns,</hi> and our own <hi>Salvation.</hi> Where is <hi>Prudence?</hi> Where is <hi>Chriſtianity?</hi> nay, Where is even <hi>Senſe,</hi> in this prepoſterous <hi>Conduct?</hi> For, I am ſure, not one Grain of <hi>Reaſon</hi> is viſible in it, from one End to the other. Suppoſe you ſhould have the <hi>Courage</hi> to ſend back Word, That <hi>Buſineſs</hi> of the higheſt Concern, will not give you Leave to accept of the <hi>Propoſal;</hi> That you intend to make <hi>Even</hi> paſt <hi>Scores</hi> with <hi>GOD,</hi> before you hazard your ſelf
+<pb n="22" facs="tcp:172244:13"/>to the <hi>Danger</hi> of encreaſing Them. What can you apprehend? What? why a Thouſand <hi>Nick-Names</hi> will be clapt on me, before I dream of it; of which <hi>Bigot</hi> and <hi>Hypocrite</hi> are the leaſt terrible. And yet, <hi>GOD</hi> knows, too many leſs fear open and real <hi>Im<g ref="char:EOLhyphen"/>piety,</hi> than to be aſpers'd with <hi>Bigotry,</hi> which car<g ref="char:EOLhyphen"/>ries nothing <hi>Hideous,</hi> but the <hi>Name;</hi> and had rather be <hi>Real Hipocrites,</hi> than be deputed <hi>So.</hi>
+               </p>
+               <p>Good <hi>GOD!</hi> That <hi>Men</hi> ſhould thus run away from <hi>Men,</hi> and be skar'd at their own <hi>Species!</hi> What de<g ref="char:EOLhyphen"/>termines you, Oh miſerable <hi>Creature,</hi> to a <hi>Reſoluti<g ref="char:EOLhyphen"/>on,</hi> which is ſo Fatal to your own <hi>Soul? <hi>Fear!</hi>
+                  </hi> What is it you fear? <hi>My Companions!</hi> Can all their <hi>Malice</hi> ever reach your <hi>Soul? <hi>No.</hi>
+                  </hi> Why then do you fear <hi>That,</hi> which is not worthy of the <hi>Paſſion?</hi> Becauſe nothing is worthy of the leaſt <hi>Symptome</hi> of <hi>Fear,</hi> but <hi>That</hi> which renders us unworthy of the <hi>Character</hi> of a <hi>CHRISTIAN. <hi>But they will defame me!</hi>
+                  </hi> How? <hi>GOD</hi> forbid, that in a <hi>Chri<g ref="char:EOLhyphen"/>ſtian Kingdom,</hi> even <hi>Heatheniſh Vices</hi> ſhould bear the Stamp of <hi>Chriſtian Vertues!</hi> That <hi>Catholicks</hi> ſhould glory in <hi>Impieties,</hi> which <hi>Pagans</hi> were aſham'd of! or run away from <hi>Chaſtity,</hi> as a <hi>Crime,</hi> which <hi>Ido<g ref="char:EOLhyphen"/>laters</hi> themſelves courted as a <hi>Vertue.</hi> Are <hi>Chriſti<g ref="char:EOLhyphen"/>an</hi>'s <hi>Laws</hi> ſo vile, that we muſt be aſham'd to keep
+<pb n="23" facs="tcp:172244:13"/>them? or, Is the <hi>Contempt</hi> of <hi>Them</hi> ſo dignifying, as to deſerve a Place amongſt our Titles of <hi>Honour?</hi> Is there no ways poſſible to be thought a <hi>Gentleman,</hi> unleſs our <hi>Eſcutcheon</hi> be ſabled with <hi>V<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce?</hi> O <hi>GOD!</hi> degrade me of <hi>Nobility,</hi> if I muſt purchaſe my <hi>Arms</hi> at ſo high a rate as <hi>Heaven!</hi> Level me with the pooreſt <hi>Worm,</hi> which creeps on the Face of the <hi>Earth,</hi> if you will but promiſe me afterwards a Place among the Happy <hi>Troops</hi> of thy <hi>Elect!</hi> I ſhall always eſteem my ſelf Higher with thy Holy <hi>Grace,</hi> in the Loweſt Place that the Opinion of <hi>Men</hi> is able to caſt me, than to move in the moſt <hi>Sublime Sphere,</hi> with<g ref="char:EOLhyphen"/>out it. Let <hi>Men</hi> call me <hi>Clown,</hi> and what they pleaſe; I value it not: If my <hi>Ruſticity</hi> will once open <hi>Heaven</hi>'s Gate, I ſhall be Happier than They, whoſe <hi>Civility</hi> will plunge them into <hi>Miſery.</hi> O fool<g ref="char:EOLhyphen"/>iſh <hi>Man!</hi> who rather chooſeth to be a Well-bred <hi>Gentle<g ref="char:EOLhyphen"/>man</hi> in <hi>Hell,</hi> than a Pious <hi>Clown</hi> in <hi>Heaven.</hi>
+               </p>
+               <p>But pray, <hi>Dear Auditory,</hi> give me Leave to inſiſt a little longer on this Subject. <hi>Obloquy,</hi> and the Fear of <hi>Infamy,</hi> frights you from your <hi>Duty:</hi> From whom do you fear theſe <hi>Aſperſions?</hi> From whom the <hi>Infamy?</hi> From <hi>Fools,</hi> or <hi>Wiſe Men?</hi> That is, From the <hi>Pious,</hi> or the <hi>Impious?</hi> From the <hi>Wiſe</hi> you cannot: For, How can they condemn <hi>Vertue</hi> in You,
+<pb n="24" facs="tcp:172244:14"/>which They glory to <hi>Practiſe</hi> themſelves? The <hi>Fright</hi> then comes from <hi>Fools;</hi> that is, from the <hi>Impious:</hi> Now, What <hi>Man</hi> of a ſober <hi>Judgment,</hi> ought in Pru<g ref="char:EOLhyphen"/>dence to frame a worſe <hi>Opinion</hi> of another, for being diſprais'd by <hi>Thoſe</hi> who deſerve <hi>Blame</hi> themſelves? Nay, I add yet farther, That all the <hi>Satyrs</hi> of the <hi>Wicked,</hi> are, in reality, the <hi>Panegyricks</hi> of the <hi>Juſt;</hi> and that they only black <hi>Thoſe,</hi> whoſe <hi>Tongues</hi> are ſo black as to pronounce them. For, as it is the greateſt Sign of a <hi>Loyal Subject</hi> to be rated at by a <hi>Traytor;</hi> ſo 'tis no leſs viſible a <hi>Mark</hi> of a <hi>Catho<g ref="char:EOLhyphen"/>lick</hi>'s <hi>Piety,</hi> than continually to lie under the <hi>Cen<g ref="char:EOLhyphen"/>ſures</hi> of the <hi>Wicked.</hi>
+               </p>
+               <p>Wherefore, <hi>Dear Chriſtians,</hi> I will End with the <hi>Prophet</hi>'s Exhortation:<note place="margin">
+                     <hi>Iſa.</hi> 51.7.</note>
+                  <hi>Nolite timere opprobrium homi<g ref="char:EOLhyphen"/>num, &amp; Blaſphemias eorum nolitemetuere;</hi> Fear not the Obloquies of Men, and let not their Blaſphemies alarm you: <hi>Sicut enim veſtimentum, ſic comedet eos vermis;</hi> Becauſe they ſhall once fall a Victim to Worms: <hi>Salus autem mea inſempternum erit;</hi> The Time will come, when they ſhall fall under the Pu<g ref="char:EOLhyphen"/>niſhment of their <hi>Crimes,</hi> and you ſhall flie up to the Recompenſe of your <hi>Vertues.</hi> You will then ſee, what a Miſery it is to court <hi>Vice,</hi> what an Happineſs to embrace <hi>Vertue.</hi> Cry then out with St. <hi>Paul;
+<pb n="25" facs="tcp:172244:14"/>Non erubeſco Evangelium;</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 1.16.</note> I am not aſham'd of the <hi>Go<g ref="char:EOLhyphen"/>ſpel.</hi> Let the <hi>World</hi> Cenſure my <hi>Change,</hi> I will Approve <hi>It;</hi> and let them Laugh, I will Forgive them. <hi>Maledicent illi &amp; tu benedices;</hi> And,<note place="margin">
+                     <hi>Pſal.</hi> 108.28.</note> as my <hi>Courage</hi> hath carry'd me over all thoſe <hi>Earthly Mo<g ref="char:EOLhyphen"/>tives,</hi> which would hinder my <hi>Choice</hi> of the <hi>True Religion;</hi> ſo, by <hi>GOD</hi>'s <hi>Grace,</hi> ſhall my <hi>Conſtan<g ref="char:EOLhyphen"/>cy</hi> trample under Feet thoſe <hi>Human Reſpects,</hi> which skare <hi>Chriſtians</hi> from their <hi>Duty.</hi> I know, 'tis a Bleſſing to be a <hi>Member</hi> of the <hi>True Church;</hi> and that I draw down a <hi>Curſe,</hi> if I am a <hi>Bad One:</hi> And therefore, I will not ſo miſuſe <hi>GOD</hi>'s <hi>Favours,</hi> as to oblige Him to puniſh Me more than Others, becauſe He hath loved Me more.</p>
+               <p>I do therefore now, in the Preſence of <hi>GOD,</hi> and of His <hi>Angels,</hi> Retract my former <hi>Weakneſſes;</hi> and do purpoſe never more to buy any <hi>Man</hi>'s <hi>Friendſhip</hi> at ſo vaſt a Price, as <hi>GOD</hi>'s <hi>Diſpleaſure.</hi> No: My only Study ſhall be, to learn the <hi>Obedience</hi> I owe my <hi>Maker,</hi> and my only <hi>Labour</hi> to comply with it. This is the ſole <hi>Way,</hi> which leads Me <hi>Here</hi> into <hi>Content;</hi> and will <hi>Hereafter</hi> place Me in that <hi>Hap<g ref="char:EOLhyphen"/>py Region</hi> Above, where I ſhall ſee my <hi>Maker,</hi> and feel my own <hi>Felicity.</hi>
+               </p>
+            </div>
+            <closer>Deo Gratias.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
